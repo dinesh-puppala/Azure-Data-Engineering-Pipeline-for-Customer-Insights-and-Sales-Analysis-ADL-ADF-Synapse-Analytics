@@ -13,7 +13,7 @@ The business has identified a gap in understanding customer demographics—speci
 2. **Data Filtering**: Ability to filter the data by product category, gender, and date.
 3. **User-Friendly Interface**: Stakeholders should have access to an easy-to-use interface for making queries.
 
-## ![Flowchart](Flowchart.png)
+## ![Flowchart](Flowchart.PDF)
 ## Medallion Architecutre 
 
 To meet these requirements, the solution is broken down into the following components:
