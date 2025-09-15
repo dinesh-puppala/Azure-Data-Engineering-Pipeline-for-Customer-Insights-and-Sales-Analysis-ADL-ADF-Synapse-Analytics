@@ -12,8 +12,10 @@ The business has identified a gap in understanding customer demographics—speci
 1. **Sales by Gender and Product Category**: A dashboard showing the total products sold, total sales revenue, and a gender split among customers.
 2. **Data Filtering**: Ability to filter the data by product category, gender, and date.
 3. **User-Friendly Interface**: Stakeholders should have access to an easy-to-use interface for making queries.
-
+   
+## Architecutre 
 ## ![Flowchart](Flowchart.jpg)
+
 ## Medallion Architecutre 
 
 To meet these requirements, the solution is broken down into the following components:
